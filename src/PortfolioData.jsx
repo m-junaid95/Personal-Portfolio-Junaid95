@@ -9,9 +9,9 @@ import proj6 from "images/color.PNG";
 const PortfolioData = [
   {
     id: 1,
-    title: "FYP Amazon Clone",
-    tagline: "FYP Amazon Clone with Prime Videos",
-    liveUrl: "https://fyp-amazon-clone.herokuapp.com/",
+    title: "FYP EasyGet App",
+    tagline: "EasyGet App with Prime Videos",
+    liveUrl: "https://easyget-fyp.herokuapp.com/",
     repositoryUrl: "https://github.com/m-junaid95/FYP-AMAZON-CLONE-SERVER",
     image: proj1,
   },
