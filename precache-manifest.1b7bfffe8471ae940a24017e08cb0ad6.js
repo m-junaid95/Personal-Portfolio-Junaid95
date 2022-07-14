@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36ee5c4a114b530c2065ea281ab45423",
+    "revision": "fec0c7699059b99fbb624bff6aa1aabf",
     "url": "/Personal-Portfolio-Junaid95/index.html"
   },
   {
-    "revision": "732a09434f1cc0ec773d",
+    "revision": "b4e345daf67b6e7e7c1d",
     "url": "/Personal-Portfolio-Junaid95/static/css/2.451bf2e4.chunk.css"
   },
   {
-    "revision": "c586edabcb8cbf516275",
-    "url": "/Personal-Portfolio-Junaid95/static/css/main.b7965308.chunk.css"
+    "revision": "a3dae2f13a2c8f8bb5bc",
+    "url": "/Personal-Portfolio-Junaid95/static/css/main.be5440e5.chunk.css"
   },
   {
-    "revision": "732a09434f1cc0ec773d",
-    "url": "/Personal-Portfolio-Junaid95/static/js/2.e22f54be.chunk.js"
+    "revision": "b4e345daf67b6e7e7c1d",
+    "url": "/Personal-Portfolio-Junaid95/static/js/2.c2c9086f.chunk.js"
   },
   {
     "revision": "0db18f2f56e579bdbf0e639ec3e0b99a",
-    "url": "/Personal-Portfolio-Junaid95/static/js/2.e22f54be.chunk.js.LICENSE.txt"
+    "url": "/Personal-Portfolio-Junaid95/static/js/2.c2c9086f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c586edabcb8cbf516275",
-    "url": "/Personal-Portfolio-Junaid95/static/js/main.66e7cd0b.chunk.js"
+    "revision": "a3dae2f13a2c8f8bb5bc",
+    "url": "/Personal-Portfolio-Junaid95/static/js/main.63fbca25.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Personal-Portfolio-Junaid95/static/js/main.66e7cd0b.chunk.js.LICENSE.txt"
+    "url": "/Personal-Portfolio-Junaid95/static/js/main.63fbca25.chunk.js.LICENSE.txt"
   },
   {
     "revision": "903fae0560d05b324308",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Personal-Portfolio-Junaid95/static/media/dev.20e45d9a.svg"
   },
   {
-    "revision": "b8492dc9281227857ed3d8e0224b7f63",
-    "url": "/Personal-Portfolio-Junaid95/static/media/fyp.b8492dc9.png"
+    "revision": "12a8d4120857f741b6ad3bc4fc3ca5d6",
+    "url": "/Personal-Portfolio-Junaid95/static/media/fyp.12a8d412.png"
   },
   {
     "revision": "c6530e20b3d220d3979f4515bbdd54e8",
